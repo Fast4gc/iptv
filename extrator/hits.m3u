@@ -1,0 +1,38 @@
+#EXTM3U
+
+# Group: CANAL ABERTO
+#EXTINF:-1 tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="CANAL ABERTO",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+# Group: ESPANHOL
+#EXTINF:-1 tvg-logo="https://www.earthhour.org/sites/default/files/euronews-logo.png" group-title="ESPANHOL",EURONEWS ES
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/24-live.m3u8
+
+# Group: Geral
+#EXTINF:-1 tvg-logo="https://goo.gl/72OLB7",RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/fVVy1W",DJING HD
+http://www.djing.com/tv/01.m3u8
+
+# Group: Musicas
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="Musicas",DJ HITS
+http://www.djing.com/tv/04.m3u8
+
+# Group: Noticias
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/45iawh419/Euronews_Portugal.jpg" group-title="Noticias",EURONEWS PORTUGAL
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/drbvcrv71/Euronews_Germany.jpg" group-title="Noticias",EURONEWS GERMANY
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+
+# Group: PORTUGAL
+#EXTINF:-1 tvg-logo="https://www.earthhour.org/sites/default/files/euronews-logo.png" group-title="PORTUGAL",EURONEWS PT
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
+# Group: Radios
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TDcokvr.png" group-title="Radios",RFI
+http://live02.rfi.fr/rfibrasil-64k.mp3
+
+# Group: TV Aberta
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="TV Aberta",TV BRASIL HD
+http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream.m3u8
+
