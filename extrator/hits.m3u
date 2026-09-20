@@ -32,6 +32,10 @@ http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TDcokvr.png" group-title="Radios",RFI
 http://live02.rfi.fr/rfibrasil-64k.mp3
 
+# Group: Religiosos
+#EXTINF:-1 tvg-logo="https://goo.gl/G7hM3f" group-title="Religiosos",TV TERCEIRO ANJO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
+
 # Group: TV Aberta
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="TV Aberta",TV BRASIL HD
 http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream.m3u8
