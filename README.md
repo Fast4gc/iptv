@@ -2,7 +2,24 @@
 
 Scripts testados em **Ubuntu 20.04/22.04/24.04** e **Debian 11/12**.
 
-## 1. Enviar para a VPS
+## 0. Via rápida (wget, tudo em 1 - recomendado)
+
+```bash
+wget -qO instalar-tudo.sh https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/instalar-tudo.sh
+chmod +x instalar-tudo.sh
+sudo ./instalar-tudo.sh
+# ele pergunta: 1) instalar Jellyfin? [S/n]  2) limpar VPS? [s/N]
+```
+
+Direto em uma linha:
+
+```bash
+wget -qO- https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/instalar-tudo.sh | sudo bash
+```
+
+> Troque `SEU-USUARIO/SEU-REPO` pela sua URL após `git push`. Precisa estar público ou usar URL com token.
+
+## 1. Enviar para a VPS (modo manual)
 
 ```powershell
 scp E:\iptv\install-jellyfin.sh E:\iptv\limpar-vps.sh root@SEU-IP:/root/
